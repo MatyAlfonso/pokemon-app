@@ -25,7 +25,7 @@ export const Navbar = () => {
             <NextLink href="/" passHref>
                 <Link>
                     <Text color='white' h1>P</Text>
-                    <Text color='white' h2>okémon App</Text>
+                    <Text color='white' h2>okémon List</Text>
                 </Link>
             </NextLink>
 
